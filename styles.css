@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+/* CSS for paragraphs with the class selector */
+.paragraph-1, .paragraph-3 {
+    color: #00f;
+    background-color: #eee;
+    font-family: Arial;
+    font-size: 20px;
+}
