@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 /* CSS for paragraphs with the class selector */
-.p1, .p3 {
+.selector {
     color: #00f;
     background-color: #eee;
     font-family: Arial;
